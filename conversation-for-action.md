@@ -1,3 +1,5 @@
-This model will focus on principles and practices for developing effectively shared [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) and [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md). 
+This model will be a [recipe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recipe.md) for effective *dialogue about [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*.  
 
-This model will function as a component in the [Shared Resource Support and Development](https://github.com/gcassel/Models/blob/master/shared-resource-support-and-development-system.md) model.
+I [intend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) for this model to [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) in the [Shared Resource Support and Development](https://github.com/gcassel/Models/blob/master/shared-resource-support-and-development-system.md) model.
+
+
