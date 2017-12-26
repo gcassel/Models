@@ -1,4 +1,4 @@
-*[Description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md)*:  prototype [P2P](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/P2P.md) [RDF](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/RDF.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md).  
+*[Description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md)*:  prototype [P2P](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/P2P.md) [community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [resource description framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/RDF.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md).  
 *[Goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md):*  to [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitate.md) the [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) of [effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) [networked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) and [distributed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
 
 **Entry:**
@@ -9,7 +9,7 @@
 
 ------------------
 
-The fundamentally collaborative RDF format identified above can:
+The fundamentally collaborative community media RDF format identified above can:
  
 * **Provide a deliberately minimal framework for the development of each autonomous community** and its media resources.
    * Note: even within the minimal suggested framework, each descriptive frame should be optional per community and per media contributor (sharer or linker)  
