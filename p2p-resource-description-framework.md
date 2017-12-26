@@ -1,6 +1,6 @@
 Here’s a prototype P2P RDF intended to stimulate the development of effectively internetworked media resources:
 
-[**International Resource Identifier** [unique **community identity**][unique **community resource identity**][unique **community resource version identity**] [unique **community resource version host identities**][authorized **editor identities**][(if private) authorized **viewer identities**][[Descriptive **Attributes**[[language][format(s)][license(s)/restriction(s)][attributions/credits]]**Evaluations of Attributes**]][[**Comments**][**Evaluations of Comments**]]][**data**]  
+[**International Resource Identifier** [unique **community identity**][unique **community resource identity**][unique **community resource version identity**] [unique **community resource version host identities**][authorized **editor identities**][authorized **viewer identities**(for private media)][[Descriptive **Attributes**[[language][format(s)][license(s)/restriction(s)][attributions/credits]]**Evaluations of Attributes**]][[**Comments**][**Evaluations of Comments**]]][**data**]  
 
 The fundamentally collaborative RDF format identified above can:
  
