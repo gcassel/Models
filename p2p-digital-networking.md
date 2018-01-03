@@ -12,7 +12,7 @@ That reiteration should facilitate more coordinated creative development, potent
 
 The following description provides a high level overview of recommended p2p networking elements, forms and processes, to eventually be illustrated by a comprehensive set of diagrams:  
 
-Agents gradually organize by using digital identities to authorize each other to receive and (sometimes) send data from/to specific (personal and group) signal addresses, using secure p2p signaling standards for both streaming and messaging.  
+People gradually organize via user identities as participants who mutually authorize each other to receive and (sometimes) send data from/to specific (personal and group) signal addresses, using secure p2p signaling standards for both streaming and messaging.  
 
 At the same time, people gradually organize as viewers and editors of data storage paths.  Storage path editors extend viewing and editing rights to develop community media resource addresses.  This enables the development of complex systems of specialized addresses, including discussion channels and forums, which have community-defined participation roles such as guests, contributors and members.
 
