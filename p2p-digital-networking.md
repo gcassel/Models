@@ -12,17 +12,17 @@ That reiteration should facilitate more coordinated creative development, potent
 
 The following description provides a high level overview of recommended p2p networking elements, forms and processes, to eventually be illustrated by a comprehensive set of diagrams:  
 
-People gradually organize via user identities as participants who mutually authorize each other to receive and (sometimes) send data from/to specific (personal and group) signal addresses, using secure p2p signaling standards for both streaming and messaging.  
+* People gradually organize as digital agents/ user identities which authorize each other to receive data from and (sometimes) send data to specific signal channels, using secure p2p signaling standards for both streaming and messaging.  
 
-At the same time, people gradually organize as viewers and editors of data storage paths.  Storage path editors extend viewing and editing rights to develop community media resource addresses.  This enables the development of complex systems of specialized addresses, including discussion channels and forums, which have community-defined participation roles such as guests, contributors and members.
+* At the same time, people gradually organize as viewers and editors of data storage paths.  Storage path editors extend viewing and editing rights to develop community media resource addresses.  This enables the development of complex systems of specialized addresses, including discussion channels and forums, which have community-defined participation roles such as guests, contributors and members.
 
-Inclusive discussion, media-tagging and evaluation processes are used to further develop community media resources via portable and dynamically updated resource description frameworks (RDFs), which globally map public and private resource addresses via international resource identifiers (IRIs). 
+* Inclusive discussion, media-tagging and evaluation processes are used to further develop community media resources via portable and dynamically updated resource description frameworks (RDFs), which globally map public and private resource addresses via international resource identifiers (IRIs). 
 
-Dynamically updated RDFs enable (a) community-defined differentiation of media resources using modular, composite and hierarchical organizing forms, and (b) flexibly user-defined sorting, filtering and searching of media resources.
+* Dynamically updated RDFs enable (a) community-defined differentiation of media resources using modular, composite and hierarchical organizing forms, and (b) flexibly user-defined sorting, filtering and searching of media resources.
 
-Communities develop distributed p2p file hosting to make each of its community-supported and portably-described media resources independent of all specific storage devices, drives and servers.  
+* Communities develop distributed p2p file hosting to make each of its community-supported and portably-described media resources independent of all specific storage devices, drives and servers.  
 
-Distributively-hosted community media resources are linked into intercommunity distributed versioning systems, and may be related more indirectly and organically to other media via semantically linked data including media attributes and evaluations by participants in formally related communities.
+* Distributively-hosted community media resources are linked into intercommunity distributed versioning systems, and may be related more indirectly and organically to other media via semantically linked data including media attributes and evaluations by participants in formally related communities.
 
 **Visual Overview Diagram** (prototype [here](https://docs.google.com/drawings/d/1neVhCEEsi-PeYYPnCkzigcJ1m86jy8TzbBafz4JBdeY/edit?usp=sharing))
 
