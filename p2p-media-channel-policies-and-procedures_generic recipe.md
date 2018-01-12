@@ -4,4 +4,4 @@ This model will be derived from the Bridge the Divide Discussion Group's acting 
 
 This model will be simplified from the BTD model, made generic for channels with any topic, and will support purely peer-based media governance for channels in varied technical formats, *without* facebook's extremely limited (crippling) group administration tools.   
 
-This model for governing content in specific channels is directly supplementary to [Distributed Media Network Governance](https://github.com/gcassel/Models/blob/master/distributed-media-network-governance.md).
+This model for governing content in specific channels is directly supplementary to [P2P Media Network Governance](https://github.com/gcassel/Models/blob/master/distributed-media-network-governance.md).
