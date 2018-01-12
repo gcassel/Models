@@ -23,4 +23,6 @@ This *[fundamentally](https://github.com/gcassel/Modular-Organization-Terminolog
 
 With collaborative use of modularly descriptive metadata and linked data, this portable P2P RDF format should enable the consistent addressing and indexing of media items which are fully portable, compatible with relevant open [application programming interfaces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/API.md), and *potentially compatible with any intentionally managed community*.
 
-**Construction Note:**  This imported entry (from [Peer-to-Peer Digital Networking](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit?usp=sharing)) still needs to be significantly refined.  Also, as *Peer-to-Peer Digital Networking* is modularly imported into github, each of the *resource description frames* which I've suggested above will be described in detail.
+**Construction Notes:**  This imported entry (from [Peer-to-Peer Digital Networking](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit?usp=sharing)) still needs to be significantly refined.  Also, as *Peer-to-Peer Digital Networking* is modularly imported into github, each of the *resource description frames* which I've suggested above will be described in detail.
+
+**This CRDF model should be formally related to distributed [public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) principles.**
