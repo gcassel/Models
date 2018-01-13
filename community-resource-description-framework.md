@@ -11,7 +11,7 @@
 
 **Clarifying Notes:**
 
-The intended structure (relationships) above is unclear in this simple draft Markdown entry.   For example, *Attribute/Evaluation Databases(, *autonomous versioning links* and *comments* are simply *subtypes* of *Linked Media*.
+The intended structure (relationships) above is poorly visualized in this simple draft Markdown entry.   For example, *Attribute/Evaluation Databases(, *autonomous versioning links* and *comments* are simply *subtypes* of *Linked Media*.  I'll attach one or more richly formatted text versions and/or a diagram later.
 
 * *media format* should identify the CRDF framework itself, and the format of the framed data (media item)
 * *community identity* should be formally related to distributed [public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) principles.
