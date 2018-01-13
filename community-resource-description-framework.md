@@ -11,9 +11,9 @@
 
 **Clarifying Notes:**
 
-The intended structure (relationships) above is poorly visualized in this simple draft Markdown entry.   For example, *Attribute/Evaluation Databases(, *autonomous versioning links* and *comments* are simply *subtypes* of *Linked Media*.  I'll attach one or more richly formatted text versions and/or a diagram later.
+* The intended structure (relationships) above is poorly visualized in this simple draft Markdown entry.   For example, *Attribute/Evaluation Databases(, *autonomous versioning links* and *comments* are simply *subtypes* of *Linked Media*.  I'll attach one or more richly formatted text versions and/or a diagram later.
 
-* *media format* should identify the CRDF framework itself, and the format of the framed data (media item)
+* *media format* should identify the CRDF framework itself, and the format of the framed data (media item).
 * *community identity* should be formally related to distributed [public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) principles.
 * *editor identities* is only relevant to media in (most) communities which complexly enable separate *viewing and editing rights* for specific media items.
 * *host identities* may only be relevant for communities which do NOT use fully distributed p2p media hosting, possibly per [Holochain](https://holochain.org/) or another distributed signaling, storage and processing standard.
