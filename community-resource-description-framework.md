@@ -15,9 +15,9 @@
 
 * *media format* should identify the CRDF framework itself, and the format of the framed data (media item).
 * *community identity* should be formally related to distributed [public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) principles.
-   *  community identity could also be coordinated directly with a comms standard such as [Matrix](https://matrix.org/docs/spec/intro.html) and distributed hosting and application standards such as [Holochain](https://holochain.org/) to facilitate the development of nonhierarchal and composite naming conventions for intentionally shared media resources.  
+   *  community identity could also be coordinated directly with a comms standard such as [Matrix](https://matrix.org/docs/spec/intro.html) and distributed hosting and processing (application) standards such as [Holochain](https://holochain.org/) to facilitate the development of nonhierarchal and composite naming conventions for intentionally shared media resources.  
 * *editor identities* is only relevant to media in (most) communities which complexly enable separate *viewing and editing rights* for specific media items.
-* *host identities* may only be relevant for communities which do NOT use fully distributed p2p media hosting, possibly per [Holochain](https://holochain.org/) or another distributed signaling, storage and processing standard.
+* *host identities* may only be relevant for communities which do NOT use fully distributed p2p media hosting, possibly per [Holochain](https://holochain.org/) or another distributed hosting and processing standard.
 * *authorized viewer identities* is only relevant for media which is licensed or restricted to be *private or secret*.   For example, that would include nondisclosure agreements/NDAs, but also potentially sophisticated media sharing options which may be customized per level of organization of complex networks, and/or customized per personal user relationships.
 ------------------
 
