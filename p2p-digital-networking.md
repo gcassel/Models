@@ -6,9 +6,11 @@ That reiteration should facilitate more coordinated creative development, potent
 
 * The refactoring of descriptive elements into many components such as [Community Media Markup Language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/models/community-media-markup-language.md) etc. may reduce P2PDN to a relatively compact and simple role as a unifying framework for completely sustainable p2p digital networking.
 
-* **The retained role for P2PDN itself will be based mostly if not entirely on the document's verbal overview and visual overview diagram**
+* **The retained role for P2PDN itself will be based mostly on the document's current *verbal overview* and *visual overview diagram***
 
-**Verbal Overview** (prototype here from [this section](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit#heading=h.f01q2uhdhbpn) of P2PDN)
+**Introductory Essay: [Peer-to-Peer Digital Networking: How the Internet Should Work](https://blog.p2pfoundation.net/peer-peer-digital-networking-internet-work/2016/10/28)**
+
+**Verbal Overview** (this prototype from [this section](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit#heading=h.f01q2uhdhbpn) of P2PDN)
 
 The following description provides a high level overview of recommended p2p networking elements, forms and processes, to eventually be illustrated by a comprehensive set of diagrams:  
 
