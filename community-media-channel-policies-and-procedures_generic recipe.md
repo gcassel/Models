@@ -6,9 +6,9 @@ This model will be derived from several sources including:
 * Bridge the Divide's acting [policies and procedures](https://www.facebook.com/notes/bridge-the-divide-discussion-group/draft-bridge-the-divide-btd-policy-and-procedures-for-admins/1092789530746602/) for admins
   *   Using those policies and procedures, BTD has only used *official* disciplinary actions by *100% written consent* of acting admins since March 2015. 
 * [Enspiral Personal Conduct Agreement](https://github.com/enspiral/handbook/blob/master/agreements/personal_conduct.md)
-   * I was the primary author in a team of four, although I left the creative team before final revisions and official adoption.
 * [Enspiral Harassment and Abuse Policy](https://github.com/enspiral/handbook/blob/master/agreements/harassment_and_abuse.md)
-    * I was a primary author and the primary editor.
+  
+I contributed to the development of the BTD Group Guidelines, and I was the primary author of the other three linked documents-- although I left the Enspiral creative team before final revisions and adoption of those two formal agreements.
 
 This model will be simplified from existing models, made generic for channels with any topic, and will support purely peer-based media governance for channels in varied technical formats, *without* facebook's extremely limited (crippling) group administration tools.   
 
