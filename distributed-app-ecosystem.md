@@ -10,7 +10,8 @@ Distributed App Ecosystem/Generic Template
 **[Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Definitions and Descriptions** for this model and mapping system:
 
 * **function**: Within the context of the DAE model, a *function* means a *[digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) [transmitting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) and/or [processing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)* function.  Such functions can be [complexly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) [constructed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) through *[hierarchically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) layered* and/or [networked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md).
-   *  **Important note:  Each function may have its own formal ID, Description and Traits (just as Levels do.)**
+   *  **Each function may have its own formal ID, Description and Traits.**
+   *  **Each function may have its own levels of organization.**
 
 * **ecosystem**: a system of distributed apps *and* of p2p agents which [supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [goals].
 
