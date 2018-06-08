@@ -10,6 +10,10 @@
 
 The objective of ARA/Community Tech Ecosystem/generic template is to specialize to create a *community-focused* modeling and mapping template.  This template is meant to [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitate.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) and [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) and [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) specific communities and [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)) at all [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [levels of organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organization.md).
 
-**Specialized Definitions**
+**Key Features**
+
+**[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), [bots](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/bot.md), [dapps](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dapp.md), [recipes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recipe.md) and [plans](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md)** are [formally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/formal.md) [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) complexly adaptive functions within the ecosystem of a specific community.
+
+Due to APA's formal distinction between *expectations* and *wants*, **CTE can distinguish between *plans of action* and *potentially coercive plans of governance**.
 
 **Verbal Summary**
