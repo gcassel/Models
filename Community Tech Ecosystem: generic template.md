@@ -1,4 +1,4 @@
-### About [ARA/Community Tech Ecosystem/ generic template](https://docs.google.com/drawings/d/1BCJOT5z5kjfE3w95awz2ICpta8meJ4lioyUVOJq3CLo/edit?usp=sharing)
+### About [ARA/Community Tech Ecosystem/generic template](https://docs.google.com/drawings/d/1BCJOT5z5kjfE3w95awz2ICpta8meJ4lioyUVOJq3CLo/edit?usp=sharing)
 
 **Title Description**
 
@@ -8,9 +8,7 @@
 
 **Objective**
 
-
-
-
+The objective of ARA/Community Tech Ecosystem/generic template is to specialize to create a *community-focused* modeling and mapping template.  This template is meant to [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitate.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) and [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) and [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) specific communities and [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)) at all [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [levels of organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organization.md).
 
 **Specialized Definitions**
 
