@@ -16,4 +16,4 @@ The objective of ARA/Community Tech Ecosystem/generic template is to specialize 
 
 Due to APA's formal distinction between *expectations* and *wants*, **CTE can distinguish between *plans of action* and *potentially coercive plans of governance**.
 
-**Verbal Summary**
+
