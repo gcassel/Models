@@ -4,13 +4,18 @@ This is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob
 
 ### Key Features
 
-Key Organizing Principle:  **Intentionally governed, consent-based collectives can directly support ungoverned networks.**
-*Note:* This principle has long operated in relationships such as WWW Foundation to the World Wide Web; however, we need to go several levels beyond that to genuinely develop worldwide intelligence.
+*key organizing principle:*  **Intentionally governed, consent-based collectives can directly support ungoverned networks.**
+*Note:* Similar principles have obviously operated in relationships such as WWW Foundation to the World Wide Web. However, we need to go far beyond that to genuinely develop worldwide intelligence.
 		
-* describe the open network (**P2PCI**) which a collective (Supporters of Collective Intelligence/ **SCI**) supports via open resources (esp open standards)
-   * this open network should easily enable specific communities to attach their own CMML to items, including community-specific and restricted items
-* additionally describe SCI, which supports P2PCI via official self-governance tools (which may transform some of their open standards into closed standards, in some internal organizing contexts)
-   * of course ABG is the governance recipe; but name a specific governance plan (perhaps identifying some desired specs)
+*a new open digital network:* P2P Collective Intelligence (**P2PCI**)
+   * P2PCI can be fully interoperable with the WWW, but will facilitate the development of hypertextual semantic links (and collective intelligence) beyond the false hierarchies which http encourages
+   * P2PCI should easily enable specific communities to develop and attach customized [Community Media Markup Language](https://github.com/gcassel/Models/blob/master/community-media-markup-language.md) to media items, including community-specific and private items
+   
+* *a new collective:* Supporters of Collective Intelligence/ **SCI**
+   * SCI will support P2PCI by developing and supporting open resources, especially open communications protocols. 
+   * SCI will use official self-governance standards.   (These standards may transform some of their open networking standards into internal rules.)
+   * [Agreement-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing) may function as the general governance recipe (and template) for SCI's governance structure.  However, the SCI members should create a specific governance plan/constitution.
+   
 * (bonus)  also illustrate OIC as an open network of intermedia which meets the OIC standard, which is governed by a "Supporters of OIC" community
    * mirror the structure of SOIC according to structure of SCI 
    * Open Intermedia Commons
