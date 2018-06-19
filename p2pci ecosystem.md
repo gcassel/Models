@@ -1,6 +1,6 @@
 ### Objective
 
-This is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) and [map](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/map.md) describing a [potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) *[community tech ecosystem](https://github.com/gcassel/Models/blob/master/Community%20Tech%20Ecosystem:%20generic%20template.md)* for a worldwide community which supports the development of peer-to-peer collective intelligence.    
+This is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) and (eventually) [map](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/map.md) describing a [potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) *[community tech ecosystem](https://github.com/gcassel/Models/blob/master/Community%20Tech%20Ecosystem:%20generic%20template.md)* for a worldwide community which supports the development of peer-to-peer collective intelligence.    
 
 ### Key Features
 
