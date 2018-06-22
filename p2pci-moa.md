@@ -1,6 +1,8 @@
+## P2P Modular Organizing Ar 
+
 ### Objective
 
-This is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) (and, eventually, a [map](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/map.md)) describing a [potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) *[community tech ecosystem](https://github.com/gcassel/Models/blob/master/Community%20Tech%20Ecosystem:%20generic%20template.md)* for a worldwide community which supports the development of peer-to-peer collective intelligence.    
+This is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) (and, eventually, a [map](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/map.md)) describing a [potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) worldwide network of agents and resources which support the development of peer-to-peer collective intelligence.    
 
 ### Key Features
 
