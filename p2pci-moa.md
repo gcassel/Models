@@ -1,4 +1,4 @@
-## P2P Modular Organizing Ar 
+## P2P Modular Organizing Architecture
 
 ### Objective
 
