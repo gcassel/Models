@@ -1,4 +1,4 @@
-## P2P Modular Organizing Architecture
+## P2PCI Modular Organizing Architecture
 
 ### Objective
 
