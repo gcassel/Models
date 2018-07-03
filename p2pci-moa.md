@@ -2,7 +2,7 @@
 
 ### Objective
 
-This is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) (and, eventually, a [map](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/map.md)) describing a [potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) worldwide network of agents and resources which support the development of peer-to-peer collective intelligence.    
+**[P2PCI Modular Organizing Architecture](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)** is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) and [plan](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/plan.md) describing a [potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) worldwide network of [agents](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) and [resources](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md), including [dapps](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/dapp.md), which can support the development of peer-to-peer collective intelligence.    
 
 ### Key Features
 
