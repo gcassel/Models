@@ -2,5 +2,7 @@ This is a placeholder entry for one of my main [creative](https://github.com/gca
 
 ### A simple *summary* will be developed from **[this](https://docs.google.com/drawings/d/1frX5ay_adnhdmaSbqCr-Z63_f1o7xyZN4e8IdI2hcts/edit?usp=sharing)** [draft](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/draft.md) *diagram*.  
 
+#### RDSS is a component in [P2P Modular Organizing](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing).
+
 The abstractly reduced summary will [identify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which can be separately [edited](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/edit.md), *branched* or *forked*.
 
