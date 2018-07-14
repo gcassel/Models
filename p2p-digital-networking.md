@@ -31,6 +31,6 @@ The following description provides a high level overview of recommended p2p netw
    * The derived diagram will:
       * simplify person-digital identity-agent relationships
       * streamline the potentially distributed relationships between agents, apps and devices
-      * **directly relate [Community Resource Support and Development System](https://github.com/gcassel/Models/blob/master/community-resource-support-and-development-system.md), [Conversation for Action](https://github.com/gcassel/Models/blob/master/conversation-for-action.md) and [Agreement-Based Governance](https://github.com/gcassel/Models/blob/master/agreement-based-governance.md) to shared resources including all protocols and addresses**
+      * **directly relate [Resource Development and Support System](https://github.com/gcassel/Models/blob/master/resource-development-and-support-system.md), [Inclusive Design System](https://docs.google.com/document/d/1E5V8LggadbbAaJw9tK_OT22VyciO4OE9ml1fiXYyfmk/edit?usp=sharing) and [Agreement-Based Governance](https://github.com/gcassel/Models/blob/master/agreement-based-governance.md) to shared resources including all protocols and addresses**
       * directly link the diagram's RDF element to [Community Resource Description Framework](https://github.com/gcassel/Models/blob/master/community-resource-description-framework.md)
       * directly relate [Community Media Markup Language](https://github.com/gcassel/Models/blob/master/community-media-markup-language.md) to the Community Media Resource Description Framework
