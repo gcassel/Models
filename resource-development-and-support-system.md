@@ -12,7 +12,7 @@ This is a written supplement to **Resource Development and Support System (RDSS)
 
 *to-do: list important [features](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/feature.md) of RDSS*
 
-### Summary
+#### Summary
 
 *to-do: a simple summary will be developed from this [draft](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/draft.md) [diagram](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/diagram.md):* 
 ### [Resource Development and Support System](https://docs.google.com/drawings/d/1frX5ay_adnhdmaSbqCr-Z63_f1o7xyZN4e8IdI2hcts/edit?usp=sharing)
