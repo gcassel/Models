@@ -19,3 +19,6 @@ This is a written supplement to **Resource Development and Support System (RDSS)
 
 The abstractly reduced summary will [identify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which can be separately [edited](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/edit.md), *branched* or *forked*.
 
+#### Notes
+
+RDSS is shared via https://creativecommons.org/licenses/by/4.0/.   I intend to release the main version into the public domain as soon as reasonably possible.
