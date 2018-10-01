@@ -1,4 +1,4 @@
-## Agent-Resource-Action Design System (ARA)
+## Agent-Resource-Action Design Framework (ARA)
 
 ### Description
 
