@@ -32,6 +32,6 @@ ARA is further meant to [facilitate](https://github.com/gcassel/Modular-Organiza
 
 **Additional Notes**
 
-*This readme is a slowly developing work-in-progress.*
+*This framework is a slowly developing work-in-progress.*
 
 
