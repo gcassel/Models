@@ -22,3 +22,5 @@ The abstractly reduced summary will [identify](https://github.com/gcassel/Modula
 #### Notes
 
 RDSS is shared via https://creativecommons.org/licenses/by/4.0/.   I intend to release the main version into the public domain as soon as reasonably possible.
+
+If RDSS works as intended, its **Design** component (and activity) should wane in significance in the development of media networks-- being mostly replaced by spontaneous stigmergic p2p emergent development. 
