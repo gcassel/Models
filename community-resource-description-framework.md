@@ -7,7 +7,7 @@ To [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob
 
 #### Features 
 
-This *[fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaboration.md)* community RDF model can:
+This *[fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaboration.md)* community RDF [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) [format](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md) can:
  
 * **Provide an intentionally minimal framework for the development of each autonomous community** and that community's media resources.
    * Note: even within the minimal suggested framework, *each descriptive frame should be optional* per community and per media contributor (sharer or linker)  
