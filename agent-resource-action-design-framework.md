@@ -2,7 +2,7 @@
 
 ### Description
 
-This document will serve as a verbal description and guide to the ARA design system and related models such as [P2PCI Modular Organizing Framework](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing).  *(Work in progress.)*
+This document will serve as a verbal description and guide to the ARA design system and related models such as [P2P Modular Organizing Framework](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing).  *(Work in progress.)*
 
 **Objectives**
 
