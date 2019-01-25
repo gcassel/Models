@@ -16,7 +16,7 @@ This *[fundamentally](https://github.com/gcassel/Modular-Organization-Terminolog
 * **Empower effective 'intercommunity' networking by transcending our *falsely exclusive and hierarchical* existing media directories**, by promoting the linking of RDFs to *meaningfully and practically defined (formal and/or conceptual) elements* within instances of files and recordings-- gradually (or suddenly) *making those subsets of data [portable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/portable.md)* across different networks and storage devices.
    * This function is fundamentally compatible with *p2p distributed versioning*
 
-With collaborative use of modularly descriptive metadata and linked data, this portable collective RDF format should enable the consistent addressing and indexing of media items which are fully portable, compatible with relevant open [application programming interfaces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/API.md), and *potentially compatible with any intentionally managed community*.
+With collaborative use of modularly descriptive metadata and linked data, this portable collective RDF format should enable the consistent addressing and indexing of media items which are fully portable, compatible with relevant open [application programming interfaces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/API.md), and *potentially compatible with any intentionally managed collective*.
 
 ### Prototype Entry
 
