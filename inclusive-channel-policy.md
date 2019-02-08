@@ -12,8 +12,8 @@ I contributed to the development of the BTD Group Guidelines, and I was the prim
 
 This model is being simplified from existing models, made generic for channels with any topic, and will support purely peer-based media governance for channels in varied technical formats, *without* facebook's extremely limited (crippling) group administration tools. 
 
-**Current model is here:  [Basic Channel Guidelines](https://docs.google.com/document/d/1w9OkvXv7A89bySQT9e8iFWWp1TIkhUCUpTI6PwRpX20/edit?usp=sharing)**
+**Current model is here:  [Inclusive Channel Policy](https://docs.google.com/document/d/1w9OkvXv7A89bySQT9e8iFWWp1TIkhUCUpTI6PwRpX20/edit?usp=sharing)**
 
-*Note:*  This model for governing content in specific channels is meant to directly supplement [Community Media Network Governance](https://github.com/gcassel/Models/blob/master/community-media-network-governance.md), while being separately usable.
+*Note:*  This model for governing content in specific channels is meant to directly supplement [Inclusive Network Governance](https://github.com/gcassel/Models/blob/master/community-media-network-governance.md), while being separately usable.
 
 --Greg Cassel
