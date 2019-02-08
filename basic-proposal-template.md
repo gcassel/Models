@@ -1,0 +1,1 @@
+This is a placeholder entry for [Basic Proposal Template](https://docs.google.com/document/d/14UYHjZ973h25BAy7LWiBLnv1w6EvzuNn7QZFG5i83NA/edit?usp=sharing) to be developed in modular relations to other organizing frameworks.
