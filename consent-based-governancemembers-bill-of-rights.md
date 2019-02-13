@@ -1,4 +1,4 @@
-*Note:  Copied from Section 1.5 of [Agreement-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing)*
+*Note:  Copied from Section 1.5 of [Consent-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing)*
 
 1.5 A “Membership Bill of Rights” for official agreements 
 =======================
