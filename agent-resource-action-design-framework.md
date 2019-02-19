@@ -32,6 +32,6 @@ ARA is further meant to [facilitate](https://github.com/gcassel/Modular-Organiza
 
 **Additional Notes**
 
-*This ARA framework is a slowly developing work-in-progress.  This is especially true because of the limited features of Google Drawings, and also of all alternative mapping and visualization tools which I'm currently aware of.*
+*This ARA framework is a slowly developing work-in-progress.  This is especially true because of the limited features of Google Drawings, and also of all alternative mapping and visualization tools which I'm currently aware of.*  
 
 
