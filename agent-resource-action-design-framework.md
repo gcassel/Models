@@ -2,11 +2,11 @@
 
 ### Description
 
-This document will serve as a verbal description and guide to the ARA design system and related models such as [P2P Modular Organizing Framework](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing).  *(Work in progress.)*
+This document will serve as a verbal description and guide to the prototype ARA design system and related models such as [P2P Modular Organizing Framework](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing).  *(Work in progress.)*
 
 **Objectives**
 
-ARA is meant to [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) visual [modeling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md) and [mapping](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md) [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) for all [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md)* and *[desired](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* between [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) and [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md).
+ARA [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) *visual [modeling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md) and [mapping](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md) [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)* for all [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md)* and *[desired](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* between [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) and [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md).
 
 ARA is meant to help diverse *activists, organizers, designers and engineers* to accurately model and map *all [important](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) and [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* which they individually *or* [collectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md):
 
@@ -32,6 +32,6 @@ ARA is further meant to [facilitate](https://github.com/gcassel/Modular-Organiza
 
 **Additional Notes**
 
-*This framework is a slowly developing work-in-progress.*
+*This ARA framework is a slowly developing work-in-progress.  This is especially true because of the limited features of Google Drawings, and also of all alternative mapping and visualization tools which I'm currently aware of.*
 
 
