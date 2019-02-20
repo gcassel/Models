@@ -14,7 +14,7 @@
 ##### Introductory Essay: [Peer-to-Peer Digital Networking: How the Internet Should Work](https://blog.p2pfoundation.net/peer-peer-digital-networking-internet-work/2016/10/28)
 
 ### Verbal Overview
-##### *(note: this prototype is from [this section](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit#heading=h.f01q2uhdhbpn) of P2PDN)*
+##### *(note: this prototype has been adapted from [this section](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit#heading=h.f01q2uhdhbpn) of P2PDN)*
 
 The following description provides a high level overview of recommended p2p networking elements, forms and processes, to eventually be illustrated by a comprehensive set of diagrams:  
 
