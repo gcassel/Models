@@ -1,5 +1,6 @@
 #### About this Document 
 
+##### Author: [Greg Cassel](https://github.com/gcassel/Essays/blob/master/authors-profile_greg-cassel.md)
 ##### This is a placeholder document for the reiteration of [Peer-to-Peer Digital Networking](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit?usp=sharing) via modular sections in distributed version control.  For example, many descriptive passages in the existing P2PDN document will be moved [here](https://github.com/gcassel/Modular-Organization-Terminology) as [modular](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/module.md) entries including [definitions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/define.md) and supplementary [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/describe.md).
 
 ##### That reiteration should facilitate more coordinated creative development, potentially including alternative branches or forks which are managed by different persons or groups.
@@ -13,7 +14,7 @@
 ##### Introductory Essay: [Peer-to-Peer Digital Networking: How the Internet Should Work](https://blog.p2pfoundation.net/peer-peer-digital-networking-internet-work/2016/10/28)
 
 ### Verbal Overview
-*(note: this prototype is from [this section](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit#heading=h.f01q2uhdhbpn) of P2PDN)*
+##### *(note: this prototype is from [this section](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit#heading=h.f01q2uhdhbpn) of P2PDN)*
 
 The following description provides a high level overview of recommended p2p networking elements, forms and processes, to eventually be illustrated by a comprehensive set of diagrams:  
 
