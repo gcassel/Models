@@ -5,13 +5,12 @@
 
 ##### That reiteration should facilitate more coordinated creative development, potentially including alternative branches or forks which are managed by different persons or groups.
 
-#### Notes 
+##### The refactoring of descriptive elements into many components such as [Collective Media Markup Language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/models/collective-media-markup-language.md) etc. may reduce P2PDN to a relatively compact and simple role as a unifying framework for completely sustainable p2p digital networking.
 
-##### * The refactoring of descriptive elements into many components such as [Collective Media Markup Language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/models/collective-media-markup-language.md) etc. may reduce P2PDN to a relatively compact and simple role as a unifying framework for completely sustainable p2p digital networking.
+##### The retained role for P2PDN itself will be based mostly on the document's current *verbal overview* and *visual overview diagram*
 
-##### * **The retained role for P2PDN itself will be based mostly on the document's current *verbal overview* and *visual overview diagram***
-
-##### Introductory Essay: [Peer-to-Peer Digital Networking: How the Internet Should Work](https://blog.p2pfoundation.net/peer-peer-digital-networking-internet-work/2016/10/28)
+#### Introductory Essay
+[Peer-to-Peer Digital Networking: How the Internet Should Work](https://blog.p2pfoundation.net/peer-peer-digital-networking-internet-work/2016/10/28)
 
 ### Verbal Overview
 ##### *(note: this prototype has been adapted from [this section](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit#heading=h.f01q2uhdhbpn) of P2PDN)*
