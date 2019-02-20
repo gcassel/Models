@@ -1,4 +1,4 @@
-# [Collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) [Resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) [Description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [Framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/framework.md)
+## [Collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) [Resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) [Description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [Framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/framework.md)
 
 #### Author
 [Greg Cassel](https://github.com/gcassel/Essays/blob/master/authors-profile_greg-cassel.md)
