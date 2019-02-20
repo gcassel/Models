@@ -6,7 +6,7 @@
 
 **(1) No person will be a member of an agreement unless they directly consent to it in writing.**
 
-**(2) Agreements may persist indefinitely, or they may expire at internally specified dates.**
+**(2) Agreements may persist indefinitely, or they may expire according to internally-defined conditions.**
 
 * For instance, groups may conduct experiments which automatically expire unless their members review and renew the terms at specified dates.
 
@@ -18,12 +18,12 @@
    * At least one current member proposes the addition of a potential member.
    * All other current members consent to the addition of the new member.
 
-**(4) Members will be free to leave agreements, or groups of hierarchically related agreements, via written notification.**
+**(4) Members should be free to leave agreements, or groups of hierarchically related agreements, via written notification.**
 
 * If members are unable to directly remove their names from the official list of members, then the list’s administrator(s) should try to accommodate each removal request in a reasonably timely manner.
 * Agreements may directly specify official, enforceable consequences for early withdrawal from important commitments and contracts.
 
-**(5) Agreements will not be altered, or attached unconditionally to other agreements, without the consent of all active members in good standing.**
+**(5) Agreements should not be altered, or attached unconditionally to other agreements, without the consent of all active members in good standing.**
   
 * Agreement-based groups will only pass binding proposals after votes have been registered by all active members (see #6 below), or by other participation standards which they mutually agree to.  
 * It’s additionally recommended that consent should not be the sole metric for passing proposals in existing groups.  For instance, groups may require a majority or supermajority of “Agree” votes, or use finely scaled content rating systems. Groups are encouraged to explore this directly, instead of relying on general standards.
@@ -38,7 +38,7 @@
 
 * Such agreements should consider the principle that group-wide binding agreements should not be rushed.  Time-sensitive matters can be handled via separate agreements which sanction unofficial actions and emergency powers.  (See Developing group tasks and roles.)  Such agreements can enable lenient standards for members’ participation in non-emergency decisions.
 
-**(8) New or amended agreements will not impose new commitments upon inactive members.**  
+**(8) New or amended agreements should not impose new commitments upon inactive members.**  
 
 * If inactive members desire to return to active status, and are eligible to do so, new commitments may be required of them.
 * Similarly, groups which extend permissions and privileges to outside parties-- for example, with ‘Terms of Service’ agreements-- may modify those terms and cancel previous versions.  Normally, other parties have the option to re-establish such agreements by accepting the new terms.
