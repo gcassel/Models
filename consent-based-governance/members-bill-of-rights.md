@@ -6,7 +6,7 @@
 
 **(1) No person will be a member of an agreement unless they directly consent to it in writing.**
 
-**(2) Agreements may persist indefinitely, or they may expire according to internally-defined conditions.**
+**(2) Agreements may persist indefinitely, or they may expire per self-defined conditions.**
 
 * For instance, groups may conduct experiments which automatically expire unless their members review and renew the terms at specified dates.
 
