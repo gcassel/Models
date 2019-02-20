@@ -1,13 +1,13 @@
 #### About this Document 
 
-##### Author: [Greg Cassel](https://github.com/gcassel/Essays/blob/master/authors-profile_greg-cassel.md)
-##### This is a placeholder document for the reiteration of [Peer-to-Peer Digital Networking](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit?usp=sharing) via modular sections in distributed version control.  For example, many descriptive passages in the existing P2PDN document will be moved [here](https://github.com/gcassel/Modular-Organization-Terminology) as [modular](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/module.md) entries including [definitions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/define.md) and supplementary [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/describe.md).
+###### Author: [Greg Cassel](https://github.com/gcassel/Essays/blob/master/authors-profile_greg-cassel.md)
+###### This is a placeholder document for the reiteration of [Peer-to-Peer Digital Networking](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit?usp=sharing) via modular sections in distributed version control.  For example, many descriptive passages in the existing P2PDN document will be moved [here](https://github.com/gcassel/Modular-Organization-Terminology) as [modular](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/module.md) entries including [definitions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/define.md) and supplementary [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/describe.md).
 
-##### That reiteration should facilitate more coordinated creative development, potentially including alternative branches or forks which are managed by different persons or groups.
+###### That reiteration should facilitate more coordinated creative development, potentially including alternative branches or forks which are managed by different persons or groups.
 
-##### The refactoring of descriptive elements into many components such as [Collective Media Markup Language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/models/collective-media-markup-language.md) etc. may reduce P2PDN to a relatively compact and simple role as a unifying framework for completely sustainable p2p digital networking.
+###### The refactoring of descriptive elements into many components such as [Collective Media Markup Language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/models/collective-media-markup-language.md) etc. may reduce P2PDN to a relatively compact and simple role as a unifying framework for completely sustainable p2p digital networking.
 
-##### The retained role for P2PDN itself will be based mostly on the document's current *verbal overview* and *visual overview diagram*
+###### The retained role for P2PDN itself will be based mostly on the document's current *verbal overview* and *visual overview diagram*
 
 #### Introductory Essay
 [Peer-to-Peer Digital Networking: How the Internet Should Work](https://blog.p2pfoundation.net/peer-peer-digital-networking-internet-work/2016/10/28)
