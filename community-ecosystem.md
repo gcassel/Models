@@ -1,18 +1,21 @@
 ### About [ARA/Community Ecosystem/generic template](https://docs.google.com/drawings/d/1BCJOT5z5kjfE3w95awz2ICpta8meJ4lioyUVOJq3CLo/edit?usp=sharing)
 
-**Title Description**
+#### Author
+[Greg Cassel](https://github.com/gcassel/Essays/blob/master/authors-profile_greg-cassel.md)
+
+#### Title Description
 
 **[ARA](https://github.com/gcassel/Agent-Resource-Action-Design-System/blob/master/README.md)**= [Agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)-[Resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)-[Action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) [Design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [System](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)  (*click preceding hyperlinks for further info*)
 
 **[Community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) [Ecosystem](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/ecosystem.md)**= An ecosystem of agents and resources which includes [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md), [techniques](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technique.md) and *systems of agents, tools, techniques and (recursively) systems* which *[perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [supporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md)* which [shares](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
 
-**Objective**
+#### Objective
 
 The objective of *ARA/Community Tech Ecosystem/generic template* is to create a *community-focused* modeling and mapping template for *all [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) and [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.  
 
 This template is meant to [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitate.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) and [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) and [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) specific communities (and [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) *[group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)*) at all [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [levels of organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organization.md).
 
-**Key Goals**
+#### Key Goals
 
 *  **[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) and [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)** can be [formally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/formal.md) [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) complexly adaptive functions within the ecosystem of a specific community.
 
