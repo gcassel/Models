@@ -4,7 +4,7 @@ That reiteration should facilitate more coordinated creative development, potent
 
 *Notes:*  
 
-* The refactoring of descriptive elements into many components such as [Community Media Markup Language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/models/community-media-markup-language.md) etc. may reduce P2PDN to a relatively compact and simple role as a unifying framework for completely sustainable p2p digital networking.
+* The refactoring of descriptive elements into many components such as [Collective Media Markup Language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/models/collective-media-markup-language.md) etc. may reduce P2PDN to a relatively compact and simple role as a unifying framework for completely sustainable p2p digital networking.
 
 * **The retained role for P2PDN itself will be based mostly on the document's current *verbal overview* and *visual overview diagram***
 
