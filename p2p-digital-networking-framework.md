@@ -31,6 +31,6 @@ The following description provides a high level overview of recommended p2p netw
    * The derived diagram will:
       * simplify person-digital identity-agent relationships
       * streamline the potentially distributed relationships between agents, apps and devices
-      * **directly relate [Resource Development and Support System](https://github.com/gcassel/Models/blob/master/resource-development-and-support-system.md), [Inclusive Design System](https://docs.google.com/document/d/1E5V8LggadbbAaJw9tK_OT22VyciO4OE9ml1fiXYyfmk/edit?usp=sharing) and [Agreement-Based Governance](https://github.com/gcassel/Models/blob/master/agreement-based-governance.md) to shared resources including all protocols and addresses**
-      * directly link the diagram's RDF element to [Community Resource Description Framework](https://github.com/gcassel/Models/blob/master/community-resource-description-framework.md)
-      * directly relate [Community Media Markup Language](https://github.com/gcassel/Models/blob/master/community-media-markup-language.md) to the Community Media Resource Description Framework
+      * **directly relate [Resource Support Framework](https://github.com/gcassel/Models/blob/master/resource-support-framework.md), [Inclusive Design Framework](https://github.com/gcassel/Models/blob/master/inclusive-design-framework.md) and [Consent-Based Governance](https://github.com/gcassel/Models/blob/master/consent-based-governance/consent-based-governance.md) to shared resources including all protocols and addresses**
+      * directly link the diagram's RDF element to [Collective Resource Description Framework](https://github.com/gcassel/Models/blob/master/collective-resource-description-framework.md)
+      * directly relate [Collective Media Markup Language](https://github.com/gcassel/Models/blob/master/collective-media-markup-language.md) to the Community Media Resource Description Framework
