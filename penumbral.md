@@ -1,6 +1,6 @@
 #### About Penumbral
 
-This is a placeholder entry for the development of *Penumbral* as an interactive and shared multimedia participatory world-building and narrative experience. *Penumbral* integrates most of my artistic projects and goals for over three decades.  It's been delayed by my necessary focus on p2p organizing frameworks, which is (as it turns out) prerequisite work for doing *Penumbral* right.  
+This is a placeholder entry for the development of *Penumbral* as a massively multiparticipant world-building, co-authorship and interactive adventure network. *Penumbral* integrates most of my artistic projects and goals for over three decades.  It's been delayed by my necessary focus on p2p organizing frameworks, which is (as it turns out) prerequisite work for doing *Penumbral* right.  
 
 #### Form
 
