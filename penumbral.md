@@ -2,6 +2,8 @@
 
 This is a placeholder entry for the development of *Penumbral* as a massively multiparticipant world-building, co-authorship and interactive adventure network. *Penumbral* integrates most of my artistic projects and goals for over three decades.  It's been delayed by my necessary focus on p2p organizing frameworks, which is (as it turns out) prerequisite work for doing *Penumbral* right.  
 
+Penumbral is one of the main [collective goals](https://github.com/gcassel/Essays/blob/master/collective-goals.md) linked to my [author's profile](https://github.com/gcassel/Essays/blob/master/authors-profile_greg-cassel.md).
+
 #### Form
 
 I want to entwine multimedia narrative with an interactive map/encyclopedia.  At the very beginning, the user might start with a block of text, or with a very incomplete map that links to text and/or illustrations. Either way, the user will journey through a sprawling narrative that’s built out of “scenes.” Each scene is broken down into small units of text or “pages”. Pages will typically consist of 1-3 paragraphs.  They’ll often have one or more interactive elements: key words or phrases that are subtly marked with mouseover links for small popup windows, which can then be clicked to open up a side window.  (Perhaps an overlaying window on smaller displays.) These links may be short, optional textual “asides” that elaborate something that the characters are currently discussing or dealing with.  In other cases, they’ll be visual illustrations or audio samples of people, places or things. If the page refers to any new person, place or thing that will be of ongoing significance, it will indicate a new entry in the “cyclopedia” (encyclopedia). 
