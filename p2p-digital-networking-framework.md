@@ -39,6 +39,6 @@ People link distributively-hosted collective media resources to intercollective 
    * The derived diagram will:
       * simplify person-digital identity-agent relationships
       * streamline the potentially distributed relationships between agents, apps and devices
-      * **directly relate [Resource Support Framework](https://github.com/gcassel/Models/blob/master/resource-support-framework.md), [Inclusive Design Framework](https://github.com/gcassel/Models/blob/master/inclusive-design-framework.md) and [Consent-Based Governance](https://github.com/gcassel/Models/blob/master/consent-based-governance/consent-based-governance.md) to shared resources including all protocols and addresses**
+      * **directly relate [Resource Support Framework](https://github.com/gcassel/Models/blob/master/resource-support-framework.md), [Inclusive Action Framework](https://github.com/gcassel/Models/blob/master/inclusive-design-framework.md) and [Consent-Based Governance](https://github.com/gcassel/Models/blob/master/consent-based-governance/consent-based-governance.md) to shared resources including all protocols and addresses**
       * directly link the diagram's RDF element to [Collective Resource Description Framework](https://github.com/gcassel/Models/blob/master/collective-resource-description-framework.md)
       * directly relate [Collective Media Markup Language](https://github.com/gcassel/Models/blob/master/collective-media-markup-language.md) to the Community Media Resource Description Framework
