@@ -6,7 +6,7 @@ This is a written supplement to **[Resource Support Framework](https://docs.goog
 
 * **RSF is [meant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) to be a [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) to [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitation.md) the [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) and [maintenance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/maintain.md) of any [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of *[community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.**
 
-* RSF is a primary [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) in [P2P Modular Organizing Framework](https://github.com/gcassel/Models/blob/master/p2p-modular-organizing-framework.md).
+* RSF is a primary [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) in [P2P Modular Organizing Diagram](https://github.com/gcassel/Models/blob/master/p2p-modular-organizing-framework.md).
 
 #### Features
 
