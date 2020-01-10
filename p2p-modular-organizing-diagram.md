@@ -1,3 +1,5 @@
+# **** ARCHIVED:  See [Inclusive Organizing Diagram](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing) for more recent work****
+
 ## P2P Modular Organizing Diagram
 
 ### Objective
