@@ -1,0 +1,1 @@
+**[Inclusive Organizing Diagram](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)** is a visual supplement to Inclusive Organizing Framework, using a prototype of ARA Visual Language and including an additional representation of a distributed application network.
