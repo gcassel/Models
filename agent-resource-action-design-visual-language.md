@@ -4,7 +4,7 @@
 [Greg Cassel](https://github.com/gcassel/Essays/blob/master/authors-profile_greg-cassel.md)
 ### Description
 
-This document will serve as a verbal description and guide to the prototype ARA visual language and related models such as [Inclusive Organizing Diagram](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing).  *(Work in progress.)*
+This document will serve as a verbal description and guide to the prototype ARA visual language and related models such as [Inclusive Organizing Systems](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing).  *(Work in progress.)*
 
 #### Objectives
 
