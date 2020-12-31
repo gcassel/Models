@@ -35,7 +35,9 @@ ARA is further meant to [facilitate](https://github.com/gcassel/Modular-Organiza
 * *additional visual metalanguage*:  one default example is to use purple fonts to indicate unfinished sections & tasks-to-do
 * **[coordination](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coordinate.md) with [MOT](https://github.com/gcassel/Modular-Organization-Terminology/)**:  ARA will use the [termilogy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/terminology.md) of *Modular Organizing Terminology*.  Effective development of ARA may influence MOT updates.
 
-#### 
+#### Specifications
+
+See [Visual Metadata](https://docs.google.com/document/d/1xAvZreY_9bc7slAuGnt3YKySY5IzrV8_tCnEYmfIiYc/edit#heading=h.u1zue0wgxb1o) in *Naming and Formatting Protocol* for specifications regarding text appearance.   (Note: this Git entry & that document need to eventually be further coordinated.)
 
 #### Additional Notes
 
