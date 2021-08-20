@@ -36,6 +36,7 @@ With collaborative use of modularly descriptive metadata and linked data, this p
 * *editor identities* is only relevant to media in (most) collectives which complexly enable separate *viewing and editing rights* for specific media items.
 * *host identities* may only be relevant for communities which do NOT use fully distributed p2p media hosting, possibly per [Holochain](https://holochain.org/) or another [dapp](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dapp.md) standard.
 * *authorized viewer identities* is only relevant for media which is licensed or restricted to be *private or secret*.   For example, that would include nondisclosure agreements/NDAs, but also potentially sophisticated media sharing options which may be customized per level of organization of complex networks, and/or customized per personal user relationships.
+* **semantic links provide most of the ultimate potential power of CRDF.** they can be linked to channels and social networks of all types, governed internally or externally (but compatibly) in relation to the host of this media item.
 
 #### Construction Notes
 
