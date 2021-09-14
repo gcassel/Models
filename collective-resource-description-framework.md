@@ -1,3 +1,5 @@
+#### *Note: This is now an outdated tertiary backup; please see [Collective Resource Description Framework](https://docs.google.com/document/d/1NrA22uZpGKnSqk5_AbNgs9iaTLIKqmLQhY0SmE3gg4s/edit?usp=sharing) instead.
+
 ## [Collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md) [Resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) [Description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [Framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/framework.md)
 
 #### Author
